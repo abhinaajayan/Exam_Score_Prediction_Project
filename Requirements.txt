@@ -1,7 +1,5 @@
-Python 3.8+
-pip packages:
-   - Flask
-   - numpy
-   - scikit-learn
-   - joblib
-   - pickle (Stdlib)
+Flask
+numpy
+scikit-learn
+joblib
+pickle
